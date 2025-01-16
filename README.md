@@ -125,6 +125,6 @@ sudo docker run hello-world
 
 The successful response is as follows:
 
-![Screenshot 1](images/screenshot3.png)
+![Screenshot 1](images/screenshot4.png)
 
 We now create a 'Dockerfile' -specifying Nginx as the base image
