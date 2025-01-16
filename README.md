@@ -14,3 +14,10 @@ In this project i will be creating a static website (HTML & CSS) for a company's
 I have created my repository in GitHub-Container25-with the html and css file included.
 
 ![Screenshot 1](images/screenshot1.png)
+
+<ins>Task2 Initialise Git</ins>
+
+You can see that I have my Container25 repository for this project now initialised.
+
+
+![Screenshot 1](images/screenshot2.png)
