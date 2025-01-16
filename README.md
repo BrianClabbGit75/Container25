@@ -112,4 +112,6 @@ the index.html has splash screen for the webpage, including Categories:
 
 The style.css dictates the alignment,colours, borders and backgrounds etc.
 
+<ins>Task4 Dockerize the Application</ins>
 
+We will now create a Dockerfile specifying Nginx as the base image.
