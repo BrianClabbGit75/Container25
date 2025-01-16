@@ -115,3 +115,9 @@ The style.css dictates the alignment,colours, borders and backgrounds etc.
 <ins>Task4 Dockerize the Application</ins>
 
 We will now create a Dockerfile specifying Nginx as the base image.
+
+Please see the following steps to install Docker on Ubuntu:
+
+![Screenshot 1](images/screenshot3.png)
+
+
