@@ -26,8 +26,44 @@ You can see that I have my Container25 repository for this project now initialis
 <ins>Task3 Git Commit</ins>
 
 index.html and style.css have been created-and committed to Git Repo -  Please see screenshot 1. 
-here is the code for index.html
-[Text Document](docs/index code.txt)
+Here is the code for index.html
+
+```<!DOCTYPE html>
+<html>
+<head>
+  <title>Container25</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Container25</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome to Container25</h2>
+      <p>We are a leading provider of innovative container solutions.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Container25</p>
+  </footer>
+
+</body>
+</html>
+```
+
+
 
 Here is the code for style.css:
 ```body {
