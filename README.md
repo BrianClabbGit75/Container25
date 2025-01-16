@@ -1,2 +1,2 @@
 # Container25
-Containerise si mple static website for companys landing page.
+Containerise simple static website for company's landing page.
