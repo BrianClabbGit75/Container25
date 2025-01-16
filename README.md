@@ -30,8 +30,7 @@ here is the code for index.html
 [Text Document](docs/index code.txt)
 
 Here is the code for style.css:
-'''
-body {
+```body {
   font-family: sans-serif;
   margin: 0;
 }
@@ -68,7 +67,7 @@ footer {
   text-align: center;
   padding: 1rem;
 }
-'''
+```
 the index.html has splash screen for the webpage, including Categories:
 * Home
 * About
