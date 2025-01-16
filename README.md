@@ -27,7 +27,7 @@ You can see that I have my Container25 repository for this project now initialis
 
 index.html and style.css have been created-and committed to Git Repo -  Please see screenshot 1. 
 here is the code for index.html
-
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,9 +61,10 @@ here is the code for index.html
 
 </body>
 </html>
-
+'''
 
 Here is the code for style.css:
+'''
 body {
   font-family: sans-serif;
   margin: 0;
@@ -101,7 +102,7 @@ footer {
   text-align: center;
   padding: 1rem;
 }
-
+'''
 the index.html has splash screen for the webpage, including Categories:
 * Home
 * About
