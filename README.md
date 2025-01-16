@@ -120,4 +120,11 @@ Please see the following steps to install Docker on Ubuntu:
 
 ![Screenshot 1](images/screenshot3.png)
 
+We can verify that Docker has installed correctly by running the following terminal command:
+sudo docker run hello-world
 
+The successful response is as follows:
+
+![Screenshot 1](images/screenshot3.png)
+
+We now create a 'Dockerfile' -specifying Nginx as the base image
